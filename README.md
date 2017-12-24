@@ -1,7 +1,8 @@
-# pointnet
+# PointNet
 
 Code for PointNet and PointNet++
 
 # Reference:
 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+
 PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
